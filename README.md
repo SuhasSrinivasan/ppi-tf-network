@@ -1,5 +1,7 @@
 ## Comprehensive Human PPI network and TF network
-A public resource for fundamental PPI network data.
+A public resource for curated and comprehensive PPI network data.  
+The benefit of such a public data resource allows additional information to be integrated based on research question.  
+Effort will be made to update this resource every six months from upstream databases.
 
 ### 1. Human PPI Network
 This comprehensive human PPI network was created from 15 databases.  
