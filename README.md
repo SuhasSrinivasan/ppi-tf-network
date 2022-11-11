@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/564119806.svg)](https://zenodo.org/badge/latestdoi/564119806)
 
 ## Comprehensive Human PPI Network and TF Network
-A public resource for curated and comprehensive PPI network data.  
+A public resource for curated and comprehensive high-quality PPI network data.  
 The benefit of such a public data resource allows additional information to be integrated based on research question.  
 Effort will be made to update this resource every six months from upstream databases.  
 
